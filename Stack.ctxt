@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Stack\ here.\r\n\ \r\n\ @author\ (Lukas\ Bedac)\ \r\n\ @version\ (6.1.2021)\r\n
+comment1.params=
+comment1.target=Stack()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Stack\r\n
+comment2.params=tetromino
+comment2.target=void\ pridajDoStacku(Tetrominoes)
+comment2.text=\r\n\ Method\ pridajDoStacku\r\n\r\n\ @param\ tetromino\ -\ pou\u017E\u00EDva\ aktu\u00E1lne\ tetromino\ na\ zistenie\ tvaru\ \r\n
+comment3.params=tetromino
+comment3.target=boolean\ nastalaKolizia(Tetrominoes)
+comment3.text=\r\n\ Method\ nastalaKolizia\r\n\r\n\ @param\ tetromino\ -\ pou\u017E\u00EDva\ aktu\u00E1lne\ tetromino,\ kontroluje\ sa\ \u010Di\ nie\ je\ null\r\n\ @return\ -\ vr\u00E1ti\ pravdivostn\u00FA\ hodnotu\r\n
+comment4.params=
+comment4.target=void\ kontrolaRiadkov()
+comment4.text=\r\n\ Method\ kontrolaRiadkov\r\n\ -\ sl\u00FA\u017Ei\ na\ kontrolu\ riadkov\ a\ n\u00E1sledne\ zmazanie\ a\ \r\n\ \ \ posunie\ riadka\ nad\ n\u00EDm\ na\ miesto\ zmazan\u00E9ho\r\n
+numComments=5

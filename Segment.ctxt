@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Segment
+comment0.text=\r\n\ Trieda\ reprezentuje\ jeden\ segment\ SSD\r\n\ \r\n\ @author\ Michal\ Varga\r\n\ @version\ 1.0\r\n
+comment1.params=dlzkaSegmentu\ hrubkaSegmentu\ poziciaX\ poziciaY
+comment1.target=Segment(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ rozsviet()
+comment3.params=
+comment3.target=void\ zhasni()
+numComments=4

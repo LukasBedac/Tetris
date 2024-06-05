@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Displej
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Displej\ here.\r\n\ \r\n\ @author\ (Lukas\ Bedac)\ \r\n\ @version\ (6.1.2021)\r\n
+comment1.params=x\ y\ sirka\ vyska\ velkost
+comment1.target=Displej(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Displej\r\n
+comment2.params=x\ y\ farba
+comment2.target=void\ setPolicko(int,\ int,\ Farba)
+comment2.text=\r\n\ Method\ setPolicko\r\n\r\n\ @param\ x\ -\ x-ova\ suradnica\r\n\ @param\ y\ -\ y-lonova\ suradnica\r\n\ @param\ farba\ -\ farba\ z\ ENUM\ triedy\r\n
+numComments=3

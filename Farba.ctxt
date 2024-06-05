@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Farba
+comment0.text=\r\n\ Enumeration\ class\ Farba\ -\ write\ a\ description\ of\ the\ enum\ class\ here\r\n\ \r\n\ @author\ (Lukas\ Bedac)\r\n\ @version\ (6.1.2021)\r\n
+comment1.params=
+comment1.target=Farba\ nahodnaFarba()
+comment1.text=\r\n\ Method\ nahodnaFarba\r\n\r\n\ @return\ -\ vr\u00E1ti\ n\u00E1hodn\u00FA\ farbu\r\n
+comment2.params=farba
+comment2.target=Farba(java.lang.String)
+comment2.text=\r\n\ Farba\ Constructor\r\n\r\n\ @param\ farba\ -\ ulo\u017E\u00ED\ farbu\ do\ atriutu\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFarba()
+comment3.text=\r\n\ Method\ getFarba\r\n\r\n\ @return\ -\ vr\u00E1ti\ farbu\ z\ atrib\u00FAtu\r\n
+numComments=4
